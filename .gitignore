@@ -1,0 +1,5 @@
+/dependency-reduced-pom.xml
+/MinecraftPing.iml
+/.idea/
+/target/
+/src/test/kotlin/top/zoyn/minecraftping/

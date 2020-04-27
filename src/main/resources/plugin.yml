@@ -1,0 +1,5 @@
+name: MinecraftPing
+author: D_xiaox
+version: "0.0.2"
+main: top.zoyn.minecraftping.MinecraftPingMain
+info: 我的世界服务器查询

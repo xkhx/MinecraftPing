@@ -1,0 +1,8 @@
+MessageTemplate: |-
+  {favicon}
+  游戏版本: {version}({protocol})
+  在线人数: {online}/{max}
+  Ping: {ping}
+  {motd}
+CommandPrefix: '#'
+Timeout: 5000
